@@ -20,18 +20,13 @@ SHIRASAGI 開発用の Vagrant Box を使用するには次のいずれかの環
   * [ダウンロード](https://www.vagrantup.com/downloads.html) から各環境に応じたインストーラーをダウンロードし、インストーラーを実行してください。
   * インストーラー実行後は、インストーラーの指示にしたがってインストールを完了させてください。
 
-### 動作確認のとれた vagrant バージョン
+### 動作確認のとれたバージョン
 
-以下のバージョンの vagrant の動作確認が取れています。
+以下のバージョンの動作確認が取れています。
 
-| バージョン | 動作                       | ダウンロード |
-|------------|----------------------------|----------|
-| 2.2.0◎      | Windows/Mac ともに OK                     |[Win 64bit](https://releases.hashicorp.com/vagrant/2.2.0/vagrant_2.2.0_x86_64.msi) / [Mac](https://releases.hashicorp.com/vagrant/2.2.0/vagrant_2.2.0_x86_64.dmg) |
-| 1.9.2    | Windows/Mac ともに OK      | [Win](https://releases.hashicorp.com/vagrant/1.9.2/vagrant_1.9.2.msi) / [Mac](https://releases.hashicorp.com/vagrant/1.9.2/vagrant_1.9.2.dmg) |
-| 1.9.0      | Windows/Mac ともに OK      | [Win](https://releases.hashicorp.com/vagrant/1.9.0/vagrant_1.9.0.msi) / [Mac](https://releases.hashicorp.com/vagrant/1.9.0/vagrant_1.9.0.dmg) |
-
-[Download Vagrant](https://www.vagrantup.com/downloads.html) にアクセスし、[download older versions of Vagrant](https://releases.hashicorp.com/vagrant/)をクリックすると、
-過去のバージョンの vagrant をダウンロードすることができます。
+| vagrant バージョン | Vagrant Box バージョン |動作                       | ダウンロード |
+|------------|------------------|---------------------------|----------|
+| 2.2.5      | 6.0.0 | Windows/Mac ともに OK                     |[Win 64bit](https://releases.hashicorp.com/vagrant/2.2.5/vagrant_2.2.5_x86_64.msi) / [Mac](https://releases.hashicorp.com/vagrant/2.2.5/vagrant_2.2.5_x86_64.dmg) |
 
 ## 使用方法
 

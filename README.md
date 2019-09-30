@@ -26,7 +26,7 @@ SHIRASAGI 開発用の Vagrant Box を使用するには次のいずれかの環
 
 | vagrant バージョン | Vagrant Box バージョン |動作                       | ダウンロード |
 |------------|------------------|---------------------------|----------|
-| 2.2.5      | 6.0.0 | Windows/Mac ともに OK                     |[Win 64bit](https://releases.hashicorp.com/vagrant/2.2.5/vagrant_2.2.5_x86_64.msi) / [Mac](https://releases.hashicorp.com/vagrant/2.2.5/vagrant_2.2.5_x86_64.dmg) |
+| 2.2.5      | 6.0.12 | Windows/Mac ともに OK                     |[Win 64bit](https://releases.hashicorp.com/vagrant/2.2.5/vagrant_2.2.5_x86_64.msi) / [Mac](https://releases.hashicorp.com/vagrant/2.2.5/vagrant_2.2.5_x86_64.dmg) |
 
 ## 使用方法
 
